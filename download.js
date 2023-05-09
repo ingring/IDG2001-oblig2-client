@@ -1,6 +1,6 @@
 async function downloadFile(){
     console.log('in download.js')
-    let APIurl = "https://api-production-f028.up.railway.app/contacts/vcard"
+    let APIurl = "https://idg2001-oblig2-api.onrender.com/contacts/vcard"
 
     try {
         //fetch request for the API 

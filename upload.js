@@ -1,5 +1,5 @@
 function uploadFile() {
-  let APIurl = "https://api-production-f028.up.railway.app/contacts"
+  let APIurl = "https://idg2001-oblig2-api.onrender.com/contacts"
 
   // get the file
   let fileInput = document.getElementById('file');
