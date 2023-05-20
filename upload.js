@@ -1,5 +1,5 @@
 function uploadFile() {
-  let APIurl = "https://idg2001-oblig2-api.onrender.com/contacts"
+  let APIurl = "https://web-production-87576.up.railway.app/contacts?key=32fcf310-0c04-4233-b2fa-328dd9ecd464"
 
   // get the file
   let fileInput = document.getElementById('file');
